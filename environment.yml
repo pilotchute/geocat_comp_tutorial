@@ -1,0 +1,13 @@
+name: geocat-comp_tutorial
+channels:
+  - conda-forge
+  - ncar
+dependencies:
+  - python=3.9
+  - geocat-comp
+  - geocat-datafiles
+  - jupyter
+  - ipython
+  - matplotlib
+  - netcdf4
+
